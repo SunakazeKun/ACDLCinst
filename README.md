@@ -8,4 +8,4 @@ Most DLC items have become unobtainable since the shutdown of Nintendo's online 
 Furthermore, the catalogue data is patched and all items are immediately available to the player.
 
 # Usage
-In order to use the tool you need to extract your savefile from the Wii system. There are plenty of Homebrew apps for save data management, although I personally recommend *SaveGame Manager GX* (https://wiibrew.org/wiki/SaveGame_Manager_GX). After dumping your savefile, simply drag it onto *ACDLCinst.exe* and you're done! Reinsert the save file with your preferred manager and boot the game. It's that simple!
+In order to use the tool you need to extract your savefile from the Wii system. There are plenty of Homebrew apps for save data management, although I personally recommend *SaveGame Manager GX* (you can find it [here](https://wiibrew.org/wiki/SaveGame_Manager_GX)). After dumping your save file, simply drag it onto *ACDLCinst.exe* and you're done! Reinsert the save file with your preferred manager and boot the game. It's that simple!
